@@ -1,0 +1,4 @@
+Bibliotecas usadas (e que talvez necessitem ser baixadas para funcionar):
+	- express
+	- readline
+	- node-fetch
